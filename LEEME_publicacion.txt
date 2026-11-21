@@ -1,0 +1,17 @@
+MEDIA MENTE · 6 TEORÍAS DE LA COMUNICACIÓN
+=========================================
+
+Este ZIP contiene 7 archivos HTML:
+- index.html: portada, menú Teorías, comparación, cuestionario y fuentes verificables en español.
+- 6 archivos teoria-*.html, uno por cada teoría, con los siete apartados y enlaces de consulta en español.
+
+PUBLICAR EN GITHUB PAGES
+1. Descomprime el ZIP.
+2. En https://github.com/jtuberqui-ch/teorias-comunicacion/ abre la rama main.
+3. Sube los 7 HTML a la raíz del repositorio (no subas el ZIP como único archivo).
+4. Reemplaza los archivos anteriores cuando GitHub lo indique y confirma "Commit changes".
+5. En Settings > Pages usa "Deploy from a branch", "main" y "/(root)".
+6. Visita https://jtuberqui-ch.github.io/teorias-comunicacion/ después de que GitHub termine de publicar.
+
+Los archivos contienen estilos, funciones e imágenes incrustadas; no requieren carpeta de recursos.
+Los títulos de obras originales se conservan como fueron publicados, aunque la bibliografía complementaria esté en español.
